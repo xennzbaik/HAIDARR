@@ -1,4 +1,4 @@
-# 👋 Hi, I’m WB
+# 👋 Hi, I’m MUHAMMAD HAIDAR
 
 **Senior Software Engineer · AI & Machine Learning Engineer · Automation Architect**  
 Ex–Google · Ex–Meta · Ex–Microsoft · Ex–Amazon Web Services  
@@ -17,20 +17,6 @@ Full-Stack · Mobile · Cloud-Native · MLOps
     <img src="https://img.shields.io/badge/Portfolio-wb.dev-111111?logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🧠 About Me
-I’m a **senior-level software engineer** with a strong focus on **scalable systems, AI-driven products, and cloud-native architectures**.  
-Experienced in designing **enterprise-grade platforms**, automating workflows, and building **production-ready ML systems**.
-
-I value:
-- Clean architecture
-- Performance & security
-- Automation-first mindset
-- Long-term maintainability
-
----
 
 ## 🕹️ Contribution Activity
 <picture>
